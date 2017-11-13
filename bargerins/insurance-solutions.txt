@@ -1,0 +1,1206 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://bargerins.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+	<script src="https://bargerins.com/wp-content/themes/bb-theme/js/html5shiv.js"></script>
+	<script src="https://bargerins.com/wp-content/themes/bb-theme/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			(function(window) {
+				window.dm_redirect_to = function(){
+					if( "" ){
+						window.location.href = "";
+					}else{
+						window.location.reload();
+					}
+				};
+				var document = window.document;
+				var url = 'https://agencyignitesites.com/dm-sso-endpoint/1510524263/?dm_action=domainmap-check-login-status&domain=bargerins.com';
+				var iframe = document.createElement('iframe');
+				(iframe.frameElement || iframe).style.cssText =
+						"width: 0; height: 0; border: 0";
+				iframe.src = "javascript:false";
+				var where = document.getElementsByTagName('script')[0];
+				where.parentNode.insertBefore(iframe, where);
+				var doc = iframe.contentWindow.document;
+				doc.open().write('<body onload="'+
+						'var js = document.createElement(\'script\');'+
+						'js.src = \''+ url +'\';'+
+						'document.body.appendChild(js);">');
+				doc.close();
+
+			}(parent.window));
+		</script>
+<title>Insurance Solutions | Auto, Home and Business</title>
+
+<meta name="description" content="Insurance Solutions to meet your needs and budget. Auto, Home, Business and more. Call us today for a quote or visit one of our convenient Agency locations." />
+<link rel="canonical" href="https://bargerins.com/insurance-solutions/" />
+<link rel="publisher" href="https://plus.google.com/116219017267260749567" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Insurance Solutions | Auto, Home and Business" />
+<meta property="og:description" content="Insurance Solutions to meet your needs and budget. Auto, Home, Business and more. Call us today for a quote or visit one of our convenient Agency locations." />
+<meta property="og:url" content="https://bargerins.com/insurance-solutions/" />
+<meta property="og:site_name" content="Barger Insurance Agency" />
+<meta property="article:publisher" content="https://www.facebook.com/pages/Barger-Insurance-Agency/450435578335335" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/bargerins.com\/","name":"Barger Insurance Agency","alternateName":"Barger Insurance Agency","potentialAction":{"@type":"SearchAction","target":"https:\/\/bargerins.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/bargerins.com\/insurance-solutions\/","sameAs":["https:\/\/www.facebook.com\/pages\/Barger-Insurance-Agency\/450435578335335","https:\/\/plus.google.com\/116219017267260749567"],"@id":"#organization","name":"Barger Insurance Agency, Inc.","logo":"https:\/\/bargerins.com\/wp-content\/uploads\/sites\/26\/2016\/09\/barger_insurance_agency_logo.png"}</script>
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Barger Insurance Agency &raquo; Feed" href="https://bargerins.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Barger Insurance Agency &raquo; Comments Feed" href="https://bargerins.com/comments/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bargerins.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='font-awesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=1.10.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-20-css' href='https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/20-layout.css?ver=fef1f6ab7072ac83437f76b7c4a0b615' type='text/css' media='all' />
+<link rel='stylesheet' id='toggle-css-css' href='https://bargerins.com/wp-content/plugins/fotoplugins-bb-modules/toggle.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mono-social-icons-css' href='https://bargerins.com/wp-content/themes/bb-theme/css/mono-social-icons.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://bargerins.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-automator-skin-css' href='https://bargerins.com/wp-content/uploads/sites/26/bb-theme/skin-59c5664cc7f29.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://bargerins.com/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=1964073382' type='text/css' media='all' />
+<script type='text/javascript' src='https://bargerins.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://bargerins.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bargerins.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bargerins.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="AgencyIgnite Sites" />
+<link rel='shortlink' href='https://bargerins.com/?p=20' />
+<link rel="alternate" type="application/json+oembed" href="https://bargerins.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbargerins.com%2Finsurance-solutions%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://bargerins.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbargerins.com%2Finsurance-solutions%2F&#038;format=xml" />
+<style>
+		form[class*="fl-builder-pp-"] .fl-lightbox-header h1:before {
+			content: "PowerPack ";
+			position: relative;
+			display: inline-block;
+			margin-right: 5px;
+		}
+		</style>
+<meta name="generator" content="Fotoplugins v1.4.8" /> <script type="text/javascript">
+				var _gaq = _gaq || [];
+
+				
+                					_gaq.push(['b._setAccount', 'UA-71580786-1']);
+                                        					_gaq.push(['b._trackPageview']);
+				
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                                    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+<script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','gaplusu');
+
+                                                            gaplusu('create', 'UA-38658346-6', 'auto', {'allowLinker': true});
+                    
+                                                                gaplusu('require', 'displayfeatures');
+                    
+                    gaplusu('send', 'pageview');
+                
+                            </script>
+<link rel="icon" href="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol-45x45.png" sizes="32x32" />
+<link rel="icon" href="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol.png" />
+<meta name="msapplication-TileImage" content="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol.png" />
+<style type="text/css" id="wp-custom-css">
+			
+
+/*
+CSS Migrated from BB theme:
+*/
+
+.fl-post-title {
+    font-size: 26px !important;
+}
+
+.phone_cta a{
+font-weight:700 !important;
+}
+
+.fl-page-footer
+
+.fl-page-footer a, .fl-page-footer-text{
+font-size: 14px;
+color: #ffffff !important;
+}		</style>
+<link rel="stylesheet" href="https://bargerins.com/wp-content/themes/ingnite-theme/style.css" /></head>
+<body class="page-template-default page page-id-20 fl-builder fl-preset-modern fl-fixed-width" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div class="fl-page">
+<header class="fl-page-header fl-page-header-fixed fl-page-nav-right">
+<div class="fl-page-header-wrap">
+<div class="fl-page-header-container container">
+<div class="fl-page-header-row row">
+<div class="fl-page-logo-wrap col-md-3 col-sm-12">
+<div class="fl-page-header-logo">
+<a href="https://bargerins.com/"><img class="fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" data-retina="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><img class="sticky-logo fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><meta itemprop="name" content="Barger Insurance Agency" /></a>
+</div>
+</div>
+<div class="fl-page-fixed-nav-wrap col-md-9 col-sm-12">
+<div class="fl-page-nav-wrap">
+<nav class="fl-page-nav fl-nav navbar navbar-default">
+<div class="fl-page-nav-collapse collapse navbar-collapse">
+<ul id="menu-navigation" class="nav navbar-nav navbar-right menu"><li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-20 current_page_item menu-item-376"><a title="Insurance Products &#038; Services" href="https://bargerins.com/insurance-solutions/">Insurance Solutions</a></li>
+<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a title="Get a Insurance Quote" href="https://bargerins.com/quote/">Get A Quote</a></li>
+<li id="menu-item-3713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3713"><a title="Customer Service" href="https://bargerins.com/customer-service/">Service</a></li>
+<li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://bargerins.com/blog/">Blog</a></li>
+<li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-378"><a title="About Barger Insurance" href="https://bargerins.com/about/">About</a>
+<ul class="sub-menu">
+<li id="menu-item-379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-379"><a title="Meet Our Team" href="https://bargerins.com/about/#staff">Staff</a></li>
+</ul>
+</li>
+<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://bargerins.com/contact/">Contact</a></li>
+<li id="menu-item-385" class="phone_cta menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a href="tel:270-384-2457">(270) 384-2457</a></li>
+</ul> </div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<header class="fl-page-header fl-page-header-primary fl-page-nav-right fl-page-nav-toggle-icon fl-page-nav-toggle-visible-mobile" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+<div class="fl-page-header-wrap">
+<div class="fl-page-header-container container">
+<div class="fl-page-header-row row">
+<div class="col-md-4 col-sm-12 fl-page-header-logo-col">
+<div class="fl-page-header-logo" itemscope="itemscope" itemtype="http://schema.org/Organization">
+<a href="https://bargerins.com/" itemprop="url"><img class="fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" data-retina="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><img class="sticky-logo fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><meta itemprop="name" content="Barger Insurance Agency" /></a>
+</div>
+</div>
+<div class="fl-page-nav-col col-md-8 col-sm-12">
+<div class="fl-page-nav-wrap">
+<nav class="fl-page-nav fl-nav navbar navbar-default" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".fl-page-nav-collapse">
+<span><i class="fa fa-bars"></i></span>
+</button>
+<div class="fl-page-nav-collapse collapse navbar-collapse">
+<ul id="menu-navigation-1" class="nav navbar-nav navbar-right menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-20 current_page_item menu-item-376"><a title="Insurance Products &#038; Services" href="https://bargerins.com/insurance-solutions/">Insurance Solutions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a title="Get a Insurance Quote" href="https://bargerins.com/quote/">Get A Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3713"><a title="Customer Service" href="https://bargerins.com/customer-service/">Service</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://bargerins.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-378"><a title="About Barger Insurance" href="https://bargerins.com/about/">About</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-379"><a title="Meet Our Team" href="https://bargerins.com/about/#staff">Staff</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://bargerins.com/contact/">Contact</a></li>
+<li class="phone_cta menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a href="tel:270-384-2457">(270) 384-2457</a></li>
+</ul> </div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="fl-page-content" itemprop="mainContentOfPage">
+<div class="fl-content-full container">
+<div class="row">
+<div class="fl-content col-md-12">
+<article class="fl-post post-20 page type-page status-publish hentry" id="fl-post-20" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+<div class="fl-post-content clearfix" itemprop="text">
+<div class="fl-builder-content fl-builder-content-20 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="20"><div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-57c71f5196d88 fl-row-bg-overlay" data-node="57c71f5196d88">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c71f5196dff fl-col-group-equal-height fl-col-group-align-center" data-node="57c71f5196dff">
+<div class="fl-col fl-node-57c71f5196e75" data-node="57c71f5196e75">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-57c71f5197057 fl-visible-desktop-medium" data-node="57c71f5197057">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+<div class="fl-module fl-module-heading fl-node-57c71f5196f61 text_shadow" data-node="57c71f5196f61">
+<div class="fl-module-content fl-node-content">
+<h1 class="fl-heading">
+<span class="fl-heading-text">Insurance Coverage</span>
+</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f5196eeb fl-col-small" data-node="57c71f5196eeb">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-57c71f519826f fl-visible-desktop-medium" data-node="57c71f519826f">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+<div class="fl-module fl-module-button fl-node-57c71f51981f7" data-node="57c71f51981f7">
+<div class="fl-module-content fl-node-content">
+<div class="fl-button-wrap fl-button-width-custom fl-button-center fl-button-has-icon">
+<a href="tel:270-261-4979" target="_self" class="fl-button" role="button">
+<i class="fl-button-icon fl-button-icon-before fa fa fa-chevron-right"></i>
+<span class="fl-button-text">Get Your Quote Today</span>
+</a>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-57d3f4cbee5d5 fl-visible-desktop-medium fl-animation fl-fade-in" data-node="57d3f4cbee5d5" data-animation-delay="0.5">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p style="text-align: center;"><span style="font-size: 24px;">Call Us Today (270) 384-2457</span></p>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-button fl-node-57c71f5196fdd fl-visible-mobile" data-node="57c71f5196fdd">
+<div class="fl-module-content fl-node-content">
+<div class="fl-button-wrap fl-button-width-custom fl-button-center fl-button-has-icon">
+<a href="tel:270-261-4979" target="_self" class="fl-button" role="button">
+<i class="fl-button-icon fl-button-icon-before fa fa fa-phone"></i>
+<span class="fl-button-text">Click To Call For A Quote</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="personal_insurance" class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c71f51970ce" data-node="57c71f51970ce">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c71f5197145" data-node="57c71f5197145">
+<div class="fl-col fl-node-57c71f51971bc" data-node="57c71f51971bc">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-57d3f594073c0 fl-visible-desktop-medium" data-node="57d3f594073c0">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+<div class="fl-module fl-module-heading fl-node-57c71f519740a" data-node="57c71f519740a">
+<div class="fl-module-content fl-node-content">
+<h2 class="fl-heading">
+<span class="fl-heading-text">Personal Insurance Coverage that meets your budget and protection needs.</span>
+</h2>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-57c71f5196d0d" data-node="57c71f5196d0d">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p style="text-align: center;"><span style="font-size: 20px;">Barger Insurance provides insurance solutions to protect you, your property and family.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c71f51977b9" data-node="57c71f51977b9">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c71f5197480" data-node="57c71f5197480">
+<div class="fl-col fl-node-57c71f51974f6 fl-col-small" data-node="57c71f51974f6">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f51976cd" data-node="57c71f51976cd">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-dashboard"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Auto</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f519756c fl-col-small" data-node="57c71f519756c">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f5197743" data-node="57c71f5197743">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-home"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Home</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f5197658 fl-col-small" data-node="57c71f5197658">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f519880a" data-node="57c71f519880a">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-home"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Mobile Home</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f519791f fl-col-small" data-node="57c71f519791f">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f5197998" data-node="57c71f5197998">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-building-o"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Renters</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f51975e2 fl-col-small" data-node="57c71f51975e2">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f519844b" data-node="57c71f519844b">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-umbrella"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Umbrella</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c71f51982e5" data-node="57c71f51982e5">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c71f519835b" data-node="57c71f519835b">
+<div class="fl-col fl-node-57c71f51983d1 fl-col-small" data-node="57c71f51983d1">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f519782f" data-node="57c71f519782f">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-motorcycle"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Motorcycle</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f51984c1 fl-col-small" data-node="57c71f51984c1">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f5198539" data-node="57c71f5198539">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-gear"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Off Road Vehicle</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f51985b8 fl-col-small" data-node="57c71f51985b8">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f519862d" data-node="57c71f519862d">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-bus"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">RV</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f51986a3 fl-col-small" data-node="57c71f51986a3">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f51978a9" data-node="57c71f51978a9">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-life-bouy"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Boat</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f519878f fl-col-small" data-node="57c71f519878f">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f5198719" data-node="57c71f5198719">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-sticky-note-o"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Property</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c71f5197232" data-node="57c71f5197232">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c71f51972a8" data-node="57c71f51972a8">
+<div class="fl-col fl-node-57c71f519731e" data-node="57c71f519731e">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-57c71f5197394" data-node="57c71f5197394">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="commercial_insurance" class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c71f5197f9a" data-node="57c71f5197f9a">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c71f5198011" data-node="57c71f5198011">
+<div class="fl-col fl-node-57c71f5198087" data-node="57c71f5198087">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-57c71f5198101" data-node="57c71f5198101">
+<div class="fl-module-content fl-node-content">
+<h2 class="fl-heading">
+<span class="fl-heading-text">Farm ins coverage to protect your Farm</span>
+</h2>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-57c71f5198181" data-node="57c71f5198181">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p style="text-align: center;"><span style="font-size: 20px;">We help farmers find comprehensive coverage needed to meet the challenges of today’s small to large farm operations.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c71f5197a0e" data-node="57c71f5197a0e">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c71f5197a85" data-node="57c71f5197a85">
+<div class="fl-col fl-node-57c71f5197afb fl-col-small" data-node="57c71f5197afb">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f5197e38" data-node="57c71f5197e38">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-map-signs"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Farm Owners</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f5197be7 fl-col-small" data-node="57c71f5197be7">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f5197c5e" data-node="57c71f5197c5e">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-file-o"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Farm Property</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f5197cd4 fl-col-small" data-node="57c71f5197cd4">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f5197d4a" data-node="57c71f5197d4a">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-automobile"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Farm Auto</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71f5197eae fl-col-small" data-node="57c71f5197eae">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57c71f5197f24" data-node="57c71f5197f24">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-file-text-o"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Farm Liability</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5873f022760eb" data-node="5873f022760eb">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-5873f02276d91" data-node="5873f02276d91">
+<div class="fl-col fl-node-5873f02276e0c fl-col-small" data-node="5873f02276e0c">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-5873f02276e83" data-node="5873f02276e83">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-viadeo"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Crop Insurance</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-5873f02276efa fl-col-small" data-node="5873f02276efa">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-5873f02277255" data-node="5873f02277255">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-bar-chart-o"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Whole Farm Revenue</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-5873f022770d5 fl-col-small" data-node="5873f022770d5">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-5873f02276f70" data-node="5873f02276f70">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-file-text-o"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Livestock Risk</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-5873f022771d4 fl-col-small" data-node="5873f022771d4">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-5873f0d905be5" data-node="5873f0d905be5">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-file-text-o"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Avian Influenza</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5873f0d904f4a" data-node="5873f0d904f4a">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-5873f0d9059fc" data-node="5873f0d9059fc">
+<div class="fl-col fl-node-5873f0d905a78 fl-col-small" data-node="5873f0d905a78">
+<div class="fl-col-content fl-node-content">
+</div>
+</div>
+<div class="fl-col fl-node-5873f0d905b6b fl-col-small" data-node="5873f0d905b6b">
+<div class="fl-col-content fl-node-content">
+</div>
+</div>
+<div class="fl-col fl-node-5873f0d905c5c fl-col-small" data-node="5873f0d905c5c">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-5873f0d905cd7" data-node="5873f0d905cd7">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-file-text"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Pastor Rangeland & Forge</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-5873f0d905d4f fl-col-small" data-node="5873f0d905d4f">
+<div class="fl-col-content fl-node-content">
+</div>
+</div>
+<div class="fl-col fl-node-5873f1408c9e7 fl-col-small" data-node="5873f1408c9e7">
+<div class="fl-col-content fl-node-content">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5873ef227c422" data-node="5873ef227c422">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-5873ef227c8f8" data-node="5873ef227c8f8">
+<div class="fl-col fl-node-5873ef227c972" data-node="5873ef227c972">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-5873ef227c9ea" data-node="5873ef227c9ea">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="commercial_insurance" class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5873ef2869fbf" data-node="5873ef2869fbf">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-5873ef286a520" data-node="5873ef286a520">
+<div class="fl-col fl-node-5873ef286a59a" data-node="5873ef286a59a">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-5873ef286a612" data-node="5873ef286a612">
+<div class="fl-module-content fl-node-content">
+<h2 class="fl-heading">
+<span class="fl-heading-text">Commercial Insurance Coverage to protect your business & employees</span>
+</h2>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5873ef286a689" data-node="5873ef286a689">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p style="text-align: center;"><span style="font-size: 20px;">Business insurance solutions to protect your business, employees and commercial property.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5873ef349f29c" data-node="5873ef349f29c">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-5873ef349fe84" data-node="5873ef349fe84">
+<div class="fl-col fl-node-5873ef349fefd fl-col-small" data-node="5873ef349fefd">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-5873ef349ff7b" data-node="5873ef349ff7b">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-dashboard"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">General Liability</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-5873ef349fff8 fl-col-small" data-node="5873ef349fff8">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-5873ef34a006f" data-node="5873ef34a006f">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+ <a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-building"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Commercial Property</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-5873ef34a00e5 fl-col-small" data-node="5873ef34a00e5">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-5873ef34a015a" data-node="5873ef34a015a">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-automobile"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Commercial Auto</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-5873ef34a01cf fl-col-small" data-node="5873ef34a01cf">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-5873ef34a0245" data-node="5873ef34a0245">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-briefcase"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Businessowner</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"><p>(BOP)</p>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-5873ef34a02ba fl-col-small" data-node="5873ef34a02ba">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-5873ef34a0330" data-node="5873ef34a0330">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-file-text-o"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Bonds</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57e564dadd00a" data-node="57e564dadd00a">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57e564dadd455" data-node="57e564dadd455">
+<div class="fl-col fl-node-57e564dadd4cd" data-node="57e564dadd4cd">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-57e564dadd54f" data-node="57e564dadd54f">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="commercial_insurance" class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57e56356da64e" data-node="57e56356da64e">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57e56356dab53" data-node="57e56356dab53">
+<div class="fl-col fl-node-57e56356dabcf" data-node="57e56356dabcf">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-57e56356dac47" data-node="57e56356dac47">
+<div class="fl-module-content fl-node-content">
+<h2 class="fl-heading">
+<span class="fl-heading-text">Benefits & Health Coverage for Individuals & Businesses</span>
+</h2>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-57e56356dacbf" data-node="57e56356dacbf">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p style="text-align: center;"><span style="font-size: 20px;">Individual &amp; business benefits to protect you, your family, business, employees and future. <br />Most unappreciated insurance, life insurance.  People don’t want it until they need it or can’t get it.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57e5635f4f095" data-node="57e5635f4f095">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57e5635f4fbe5" data-node="57e5635f4fbe5">
+<div class="fl-col fl-node-57e5635f4fc60 fl-col-small" data-node="57e5635f4fc60">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57e5635f4fcdb" data-node="57e5635f4fcdb">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-hospital-o"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Health Insurance</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57e5635f4fd5f fl-col-small" data-node="57e5635f4fd5f">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57e5643822e66" data-node="57e5643822e66">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-credit-card"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Dental</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57e5635f4fe50 fl-col-small" data-node="57e5635f4fe50">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57e5635f4fec6" data-node="57e5635f4fec6">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-user"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Life Insurance</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57e5635f4ff44 fl-col-small" data-node="57e5635f4ff44">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57e5635f4fdd8" data-node="57e5635f4fdd8">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-user-plus"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Disability Insurance</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57e56438221c4" data-node="57e56438221c4">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57e5643822aa6" data-node="57e5643822aa6">
+<div class="fl-col fl-node-57e5643822b20 fl-col-small" data-node="57e5643822b20">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57e5643822b97" data-node="57e5643822b97">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-hotel"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Long Term Care</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57e5643822c0e fl-col-small" data-node="57e5643822c0e">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57e5635f4ffbd" data-node="57e5635f4ffbd">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-credit-card"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Medicare Supplement</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57e5643822d01 fl-col-small" data-node="57e5643822d01">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57e5643822c85" data-node="57e5643822c85">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-user-plus"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Cancer</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57e5643822df0 fl-col-small" data-node="57e5643822df0">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-callout fl-node-57e5643822d79" data-node="57e5643822d79">
+<div class="fl-module-content fl-node-content">
+<div class="fl-callout fl-callout-center fl-callout-has-icon fl-callout-icon-above-title">
+<div class="fl-callout-content">
+<span class="fl-icon">
+<a href="/quote/" target="_self" aria-label="link to /quote/">
+<i class="fa fa-user"></i>
+</a> </span>
+<h3 class="fl-callout-title"><span><a href="/quote/" target="_self" class="fl-callout-title-link">Accident</a></span></h3> <div class="fl-callout-text-wrap">
+<div class="fl-callout-text"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-57d3f5e8a3cf7" data-node="57d3f5e8a3cf7">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c71565e570d fl-col-group-equal-height fl-col-group-align-center" data-node="57c71565e570d">
+<div class="fl-col fl-node-57c71565e5793 fl-col-small" data-node="57c71565e5793">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-rich-text fl-node-57c71565e591f" data-node="57c71565e591f">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p style="text-align: center;"><span style="font-weight: 500; font-size: 18px;">Barger Insurance Agency</span><br />
+326 Public Square<br />
+Suite 100<br />
+Columbia, KY 42728<br />
+(270) 384-2457</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71565e589c fl-col-small fl-visible-desktop-medium" data-node="57c71565e589c">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-57d3f0d2df3cf" data-node="57d3f0d2df3cf">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-1087 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency - Columbia KY" itemprop="image" height="80" width="410" srcset="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png 410w, https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo-300x59.png 300w" sizes="(max-width: 410px) 100vw, 410px" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71565e5817 fl-col-small" data-node="57c71565e5817">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-rich-text fl-node-57c71565e59a3" data-node="57c71565e59a3">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p style="text-align: center;"><span style="font-weight: 500; font-size: 18px;">Barger Insurance Agency</span><br />
+<span style="font-size: 14px; font-weight: 500;">DBA Jack &amp; Jack Insurance Agency</span><br />
+2395 N. Main St.<br />
+Jamestown, KY 42629<br />
+(270) 343-5363</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</article>
+
+</div>
+</div>
+</div>
+</div>
+<footer class="fl-page-footer-wrap" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+<div class="fl-page-footer">
+<div class="fl-page-footer-container container">
+<div class="fl-page-footer-row row">
+<div class="col-md-12 text-center clearfix"><div class="fl-page-footer-text fl-page-footer-text-1">Copyright © 2017 Barger Insurance Agency, Inc. | <a href="/privacy">Privacy</a> | <a href="/terms">Terms</a></br>Powered by AgencyIgnite</div></div> </div>
+</div>
+</div>
+</footer>
+</div>
+<script type="text/javascript">
+
+if(typeof jQuery == 'undefined' || typeof jQuery.fn.on == 'undefined') {
+	document.write('<script src="https://bargerins.com/wp-content/plugins/bb-plugin/js/jquery.js"><\/script>');
+	document.write('<script src="https://bargerins.com/wp-content/plugins/bb-plugin/js/jquery.migrate.min.js"><\/script>');
+}
+
+</script>
+<script>
+        jQuery('a.sw-tooltips').each(function(){
+            var $this = jQuery(this);
+            jQuery.Zebra_Tooltips( $this, {
+                    background_color: $this.data('background'),
+                    color: $this.data('color')
+            });
+        });
+    </script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/plugins/bb-plugin/js/jquery.waypoints.min.js?ver=1.10.9.2'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/20-layout.js?ver=fef1f6ab7072ac83437f76b7c4a0b615'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/themes/bb-theme/js/jquery.throttle.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/themes/bb-theme/js/bootstrap.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-includes/js/wp-embed.min.js?ver=4.8.3'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80740446-1', 'auto');
+  ga('send', 'pageview');
+
+</script></body>
+</html>

@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://bargerins.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+	<script src="https://bargerins.com/wp-content/themes/bb-theme/js/html5shiv.js"></script>
+	<script src="https://bargerins.com/wp-content/themes/bb-theme/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			(function(window) {
+				window.dm_redirect_to = function(){
+					if( "" ){
+						window.location.href = "";
+					}else{
+						window.location.reload();
+					}
+				};
+				var document = window.document;
+				var url = 'https://agencyignitesites.com/dm-sso-endpoint/1510524423/?dm_action=domainmap-check-login-status&domain=bargerins.com';
+				var iframe = document.createElement('iframe');
+				(iframe.frameElement || iframe).style.cssText =
+						"width: 0; height: 0; border: 0";
+				iframe.src = "javascript:false";
+				var where = document.getElementsByTagName('script')[0];
+				where.parentNode.insertBefore(iframe, where);
+				var doc = iframe.contentWindow.document;
+				doc.open().write('<body onload="'+
+						'var js = document.createElement(\'script\');'+
+						'js.src = \''+ url +'\';'+
+						'document.body.appendChild(js);">');
+				doc.close();
+
+			}(parent.window));
+		</script>
+<title>About Us | Barger  Insurance Agency</title>
+
+<meta name="description" content="Barger Insurance is a well-established, family owned independent insurance agency, located in Columbia, Ky. Learn more about us. (270) 384-2457" />
+<meta name="keywords" content="about, barger insurance, columbia, ky, kentucky" />
+<link rel="canonical" href="https://bargerins.com/about/" />
+<link rel="publisher" href="https://plus.google.com/116219017267260749567" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="About Us | Barger  Insurance Agency" />
+<meta property="og:description" content="Barger Insurance is a well-established, family owned independent insurance agency, located in Columbia, Ky. Learn more about us. (270) 384-2457" />
+<meta property="og:url" content="https://bargerins.com/about/" />
+<meta property="og:site_name" content="Barger Insurance Agency" />
+<meta property="article:publisher" content="https://www.facebook.com/pages/Barger-Insurance-Agency/450435578335335" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/adair_county_coomunity_voice-1024x190.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/adair_county_coomunity_voice-1024x190.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/professional_insurance_agents_of_kentucky_member.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/professional_insurance_agents_of_kentucky_member.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/russell_county_chamber_kentucky.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/russell_county_chamber_kentucky.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/keystone_insurers_group_partner.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/keystone_insurers_group_partner.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/kentucky_cattlemens_association.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/kentucky_cattlemens_association.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/columbia_adair_county_chamber_of_commerce.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/columbia_adair_county_chamber_of_commerce.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/susan_loy_owner_agent_barger_insurance_kentucky.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/susan_loy_owner_agent_barger_insurance_kentucky.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/stephen_king_owner_agent_barger_insurance_kentucky.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/stephen_king_owner_agent_barger_insurance_kentucky.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/dwayne_loy_owner_agent_barger_insurance_kentucky.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/dwayne_loy_owner_agent_barger_insurance_kentucky.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/vanessa_tucker_agent_barger_insurance_kentucky.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/vanessa_tucker_agent_barger_insurance_kentucky.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/april_frank_agent_barger_insurance_kentucky.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/april_frank_agent_barger_insurance_kentucky.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/john_gossage_agent_barger_insurance_kentucky.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/john_gossage_agent_barger_insurance_kentucky.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/amy_collins_agent_barger_insurance_kentucky.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2015/11/amy_collins_agent_barger_insurance_kentucky.png" />
+<meta property="og:image" content="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" />
+<meta property="og:image:secure_url" content="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/bargerins.com\/","name":"Barger Insurance Agency","alternateName":"Barger Insurance Agency","potentialAction":{"@type":"SearchAction","target":"https:\/\/bargerins.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/bargerins.com\/about\/","sameAs":["https:\/\/www.facebook.com\/pages\/Barger-Insurance-Agency\/450435578335335","https:\/\/plus.google.com\/116219017267260749567"],"@id":"#organization","name":"Barger Insurance Agency, Inc.","logo":"https:\/\/bargerins.com\/wp-content\/uploads\/sites\/26\/2016\/09\/barger_insurance_agency_logo.png"}</script>
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Barger Insurance Agency &raquo; Feed" href="https://bargerins.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Barger Insurance Agency &raquo; Comments Feed" href="https://bargerins.com/comments/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bargerins.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fl-builder-layout-54-css' href='https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/54-layout.css?ver=8e99f70245b91a7e95161f803d74d9c3' type='text/css' media='all' />
+<link rel='stylesheet' id='toggle-css-css' href='https://bargerins.com/wp-content/plugins/fotoplugins-bb-modules/toggle.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=1.10.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mono-social-icons-css' href='https://bargerins.com/wp-content/themes/bb-theme/css/mono-social-icons.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://bargerins.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-automator-skin-css' href='https://bargerins.com/wp-content/uploads/sites/26/bb-theme/skin-59c5664cc7f29.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://bargerins.com/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=1594992476' type='text/css' media='all' />
+<script type='text/javascript' src='https://bargerins.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://bargerins.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bargerins.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bargerins.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="AgencyIgnite Sites" />
+<link rel='shortlink' href='https://bargerins.com/?p=54' />
+<link rel="alternate" type="application/json+oembed" href="https://bargerins.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbargerins.com%2Fabout%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://bargerins.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbargerins.com%2Fabout%2F&#038;format=xml" />
+<style>
+		form[class*="fl-builder-pp-"] .fl-lightbox-header h1:before {
+			content: "PowerPack ";
+			position: relative;
+			display: inline-block;
+			margin-right: 5px;
+		}
+		</style>
+<meta name="generator" content="Fotoplugins v1.4.8" /> <script type="text/javascript">
+				var _gaq = _gaq || [];
+
+				
+                					_gaq.push(['b._setAccount', 'UA-71580786-1']);
+                                        					_gaq.push(['b._trackPageview']);
+				
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                                    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+<script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','gaplusu');
+
+                                                            gaplusu('create', 'UA-38658346-6', 'auto', {'allowLinker': true});
+                    
+                                                                gaplusu('require', 'displayfeatures');
+                    
+                    gaplusu('send', 'pageview');
+                
+                            </script>
+<link rel="icon" href="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol-45x45.png" sizes="32x32" />
+<link rel="icon" href="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol.png" />
+<meta name="msapplication-TileImage" content="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol.png" />
+<style type="text/css" id="wp-custom-css">
+			
+
+/*
+CSS Migrated from BB theme:
+*/
+
+.fl-post-title {
+    font-size: 26px !important;
+}
+
+.phone_cta a{
+font-weight:700 !important;
+}
+
+.fl-page-footer
+
+.fl-page-footer a, .fl-page-footer-text{
+font-size: 14px;
+color: #ffffff !important;
+}		</style>
+<link rel="stylesheet" href="https://bargerins.com/wp-content/themes/ingnite-theme/style.css" /></head>
+<body class="page-template-default page page-id-54 fl-builder fl-preset-modern fl-fixed-width" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div class="fl-page">
+<header class="fl-page-header fl-page-header-fixed fl-page-nav-right">
+<div class="fl-page-header-wrap">
+<div class="fl-page-header-container container">
+<div class="fl-page-header-row row">
+<div class="fl-page-logo-wrap col-md-3 col-sm-12">
+<div class="fl-page-header-logo">
+<a href="https://bargerins.com/"><img class="fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" data-retina="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><img class="sticky-logo fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><meta itemprop="name" content="Barger Insurance Agency" /></a>
+</div>
+</div>
+<div class="fl-page-fixed-nav-wrap col-md-9 col-sm-12">
+<div class="fl-page-nav-wrap">
+<nav class="fl-page-nav fl-nav navbar navbar-default">
+<div class="fl-page-nav-collapse collapse navbar-collapse">
+<ul id="menu-navigation" class="nav navbar-nav navbar-right menu"><li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a title="Insurance Products &#038; Services" href="https://bargerins.com/insurance-solutions/">Insurance Solutions</a></li>
+<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a title="Get a Insurance Quote" href="https://bargerins.com/quote/">Get A Quote</a></li>
+<li id="menu-item-3713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3713"><a title="Customer Service" href="https://bargerins.com/customer-service/">Service</a></li>
+<li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://bargerins.com/blog/">Blog</a></li>
+<li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-54 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-378"><a title="About Barger Insurance" href="https://bargerins.com/about/">About</a>
+<ul class="sub-menu">
+<li id="menu-item-379" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-379"><a title="Meet Our Team" href="https://bargerins.com/about/#staff">Staff</a></li>
+</ul>
+</li>
+<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://bargerins.com/contact/">Contact</a></li>
+<li id="menu-item-385" class="phone_cta menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a href="tel:270-384-2457">(270) 384-2457</a></li>
+</ul> </div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<header class="fl-page-header fl-page-header-primary fl-page-nav-right fl-page-nav-toggle-icon fl-page-nav-toggle-visible-mobile" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+<div class="fl-page-header-wrap">
+<div class="fl-page-header-container container">
+<div class="fl-page-header-row row">
+<div class="col-md-4 col-sm-12 fl-page-header-logo-col">
+<div class="fl-page-header-logo" itemscope="itemscope" itemtype="http://schema.org/Organization">
+<a href="https://bargerins.com/" itemprop="url"><img class="fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" data-retina="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><img class="sticky-logo fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><meta itemprop="name" content="Barger Insurance Agency" /></a>
+</div>
+</div>
+<div class="fl-page-nav-col col-md-8 col-sm-12">
+<div class="fl-page-nav-wrap">
+<nav class="fl-page-nav fl-nav navbar navbar-default" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".fl-page-nav-collapse">
+<span><i class="fa fa-bars"></i></span>
+</button>
+<div class="fl-page-nav-collapse collapse navbar-collapse">
+<ul id="menu-navigation-1" class="nav navbar-nav navbar-right menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a title="Insurance Products &#038; Services" href="https://bargerins.com/insurance-solutions/">Insurance Solutions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a title="Get a Insurance Quote" href="https://bargerins.com/quote/">Get A Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3713"><a title="Customer Service" href="https://bargerins.com/customer-service/">Service</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://bargerins.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-54 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-378"><a title="About Barger Insurance" href="https://bargerins.com/about/">About</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-379"><a title="Meet Our Team" href="https://bargerins.com/about/#staff">Staff</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://bargerins.com/contact/">Contact</a></li>
+<li class="phone_cta menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a href="tel:270-384-2457">(270) 384-2457</a></li>
+</ul> </div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="fl-page-content" itemprop="mainContentOfPage">
+<div class="fl-content-full container">
+<div class="row">
+<div class="fl-content col-md-12">
+<article class="fl-post post-54 page type-page status-publish hentry" id="fl-post-54" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+<div class="fl-post-content clearfix" itemprop="text">
+<div class="fl-builder-content fl-builder-content-54 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="54"><div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-563b86a42816a fl-row-bg-overlay" data-node="563b86a42816a">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-563b86a4281e0" data-node="563b86a4281e0">
+<div class="fl-col fl-node-563b86a428260" data-node="563b86a428260">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-5640e14fe6f81" data-node="5640e14fe6f81">
+<div class="fl-module-content fl-node-content">
+<h1 class="fl-heading">
+<span class="fl-heading-text">About Us</span>
+</h1>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-563b86a428362" data-node="563b86a428362">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p><span style="font-size: 20px;">We’ve been hear a longtime, were commitment and with your help were here to stay..</span></p>
+<p><span style="font-weight: 400;">Barger Insurance Agency has be serving the South Central Kentucky farmers, individuals and businesses for 87 years by providing best insurance products and service possible.  Chelsie Barger started our agency in 1929.  In 2001, we purchased Jack &amp; Jack Insurance Agency, a 67 year old insurance agency started by Jack Stephens and Jack Wolford in 1949.  </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-563b86a4282e8 fl-col-small" data-node="563b86a4282e8">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-57e189a2ab03e fl-visible-desktop" data-node="57e189a2ab03e">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+<div class="fl-module fl-module-photo fl-node-57e189150930f fl-visible-desktop" data-node="57e189150930f">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-1145 size-large" src="https://bargerins.com/wp-content/uploads/sites/26/2015/11/adair_county_coomunity_voice-1024x190.png" alt="adair_county_coomunity_voice" itemprop="image" height="190" width="1024" srcset="https://bargerins.com/wp-content/uploads/sites/26/2015/11/adair_county_coomunity_voice-1024x190.png 1024w, https://bargerins.com/wp-content/uploads/sites/26/2015/11/adair_county_coomunity_voice-300x56.png 300w, https://bargerins.com/wp-content/uploads/sites/26/2015/11/adair_county_coomunity_voice-768x143.png 768w, https://bargerins.com/wp-content/uploads/sites/26/2015/11/adair_county_coomunity_voice.png 1513w" sizes="(max-width: 1024px) 100vw, 1024px" />
+</div>
+</div>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-57e18962a81e4 fl-visible-desktop" data-node="57e18962a81e4">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p style="text-align: center;"><strong>"Adair County Community Voice"<br />
+2014 Reader Choice Award<br />
+</strong></p>
+<p style="text-align: center;"><strong>Best Insurance Agency</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col-group fl-node-564f8698a189d fl-col-group-equal-height fl-col-group-align-center" data-node="564f8698a189d">
+<div class="fl-col fl-node-5873fa787ddba fl-col-small" data-node="5873fa787ddba">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-564f869d07cd3 fl-visible-desktop fl-animation fl-fade-in" data-node="564f869d07cd3" data-animation-delay="0.3">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-3772 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/professional_insurance_agents_of_kentucky_member.png" alt="Professional Insurance Agents of Kentucky - Member" itemprop="image" height="280" width="280" srcset="https://bargerins.com/wp-content/uploads/sites/26/professional_insurance_agents_of_kentucky_member.png 280w, https://bargerins.com/wp-content/uploads/sites/26/professional_insurance_agents_of_kentucky_member-150x150.png 150w, https://bargerins.com/wp-content/uploads/sites/26/professional_insurance_agents_of_kentucky_member-45x45.png 45w" sizes="(max-width: 280px) 100vw, 280px" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-564f89ecced00 fl-col-small" data-node="564f89ecced00">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-5873fa711179b fl-visible-desktop fl-animation fl-fade-in" data-node="5873fa711179b" data-animation-delay="0.3">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-1141 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/2015/11/russell_county_chamber_kentucky.png" alt="Russel County Chamber - Kentucky" itemprop="image" height="102" width="188" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-564f92801ef04 fl-col-small" data-node="564f92801ef04">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-564f89f660065 fl-visible-desktop fl-animation fl-fade-in" data-node="564f89f660065" data-animation-delay="0.4">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<a href="https://www.rotary.org" target="_blank" rel="noopener" itemprop="url">
+<img class="fl-photo-img wp-image-3773 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/keystone_insurers_group_partner.png" alt="Keystone Insurers Group - Partner" itemprop="image" height="280" width="280" srcset="https://bargerins.com/wp-content/uploads/sites/26/keystone_insurers_group_partner.png 280w, https://bargerins.com/wp-content/uploads/sites/26/keystone_insurers_group_partner-150x150.png 150w, https://bargerins.com/wp-content/uploads/sites/26/keystone_insurers_group_partner-45x45.png 45w" sizes="(max-width: 280px) 100vw, 280px" />
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-564f86c31c0d4 fl-col-small fl-visible-desktop" data-node="564f86c31c0d4">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-57e186bcf3177 fl-animation fl-fade-in" data-node="57e186bcf3177" data-animation-delay="0.4">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-1142 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/2015/11/kentucky_cattlemens_association.png" alt="Kentucky Cattlemen's Association" itemprop="image" height="280" width="280" srcset="https://bargerins.com/wp-content/uploads/sites/26/2015/11/kentucky_cattlemens_association.png 280w, https://bargerins.com/wp-content/uploads/sites/26/2015/11/kentucky_cattlemens_association-150x150.png 150w, https://bargerins.com/wp-content/uploads/sites/26/2015/11/kentucky_cattlemens_association-45x45.png 45w" sizes="(max-width: 280px) 100vw, 280px" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57e186b66f4cf fl-col-small fl-visible-desktop" data-node="57e186b66f4cf">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-57e185b2b3386 fl-animation fl-fade-in" data-node="57e185b2b3386" data-animation-delay="0.4">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-1143 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/2015/11/columbia_adair_county_chamber_of_commerce.png" alt="Columbia Adair County Chamber - Kentucky" itemprop="image" height="130" width="387" srcset="https://bargerins.com/wp-content/uploads/sites/26/2015/11/columbia_adair_county_chamber_of_commerce.png 387w, https://bargerins.com/wp-content/uploads/sites/26/2015/11/columbia_adair_county_chamber_of_commerce-300x101.png 300w" sizes="(max-width: 387px) 100vw, 387px" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5668b457b6040" data-node="5668b457b6040">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-5668b457d0ca5" data-node="5668b457d0ca5">
+<div class="fl-col fl-node-5668b457d10a2" data-node="5668b457d10a2">
+<div class="fl-col-content fl-node-content">
+<div id="staff" class="fl-module fl-module-separator fl-node-5668b457b45ac" data-node="5668b457b45ac">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-563b8df56562d" data-node="563b8df56562d">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-563b8df567e51 fl-col-group-equal-height fl-col-group-align-center" data-node="563b8df567e51">
+<div class="fl-col fl-node-563b8df568030 fl-col-small" data-node="563b8df568030">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-563b8e0843df3" data-node="563b8e0843df3">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-crop-circle fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-408 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/susan_loy_owner_agent_barger_insurance_kentucky-circle.png" alt="Susan Loy Owner &amp; Agent - Barger Insurance Agency - Columbia KY" itemprop="image" height="460" width="460" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-563b8df5680b1" data-node="563b8df5680b1">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-563b8e552a46f" data-node="563b8e552a46f">
+<div class="fl-module-content fl-node-content">
+<h3 class="fl-heading">
+<span class="fl-heading-text">Susan Loy, Agent & Owner</span>
+</h3>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-563b8e2c179be" data-node="563b8e2c179be">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p>Susan Loy joined Barger Insurance Agency in 1993 when she became a partner in the agency. Susan oversees the operations of the agency as well as servicing client accounts. Meeting and taking care of the customer’s needs is the number one priority. Susan enjoys the family farm, reading, walking and spending time with her grandchildren.</p>
+<p><span style="color: #066fc5; font-size: 16px;"><strong>Adair County Community Voice" 2015 Reader Choice Award - Outstanding Business Professional Woman</strong></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-563b8ecf44093" data-node="563b8ecf44093">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-563b8ecf4a84f" data-node="563b8ecf4a84f">
+<div class="fl-col fl-node-563b8ecf4aa87" data-node="563b8ecf4aa87">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-563b8ecf43bd6" data-node="563b8ecf43bd6">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-563b8e8668d61" data-node="563b8e8668d61">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-563b8e86693c2 fl-col-group-equal-height fl-col-group-align-center" data-node="563b8e86693c2">
+<div class="fl-col fl-node-563b8e866943d fl-col-small" data-node="563b8e866943d">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-563b8e86694b5" data-node="563b8e86694b5">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-crop-circle fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-407 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/stephen_king_owner_agent_barger_insurance_kentucky-circle.png" alt="Stephen King, Owner &amp; Agent - Barger Insurance Agency - Columbia KY" itemprop="image" height="460" width="460" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-563b8e866952c" data-node="563b8e866952c">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-563b8e86695a3" data-node="563b8e86695a3">
+<div class="fl-module-content fl-node-content">
+<h3 class="fl-heading">
+<span class="fl-heading-text">Stephen Keen, Agent & Owner</span>
+</h3>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-563b8e866961a" data-node="563b8e866961a">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p>Stephen Keen became a partner in the agency in 1997. He likes all aspects of the insurance business, but primarily likes to concentrate on sales. “Meeting with new clients gives me a chance to learn about them and their insurance needs, as well as gives them a chance to learn about me”. Stephen and his wife, Mary are lifelong residents of Columbia, Adair County and have two children, Molly & Luke. </p>
+<p>He graduated Adair County High School in 1985 and then attended Lindsey Wilson College where he received a Bachelor of Arts degree in Business Administration in 1989. Stephen has many hobbies: racquetball, golf, running, hunting, mowing but probably prefers fishing most of all.</p>
+<p><span style="color: #066fc5; font-size: 16px;"><strong>"Adair County Community Voice" 2014 Reader Choice Award - Best Insurance Agent</strong></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-563b8ed9b9393" data-node="563b8ed9b9393">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-563b8ed9b9748" data-node="563b8ed9b9748">
+<div class="fl-col fl-node-563b8ed9b97c3" data-node="563b8ed9b97c3">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-563b8ed9b9838" data-node="563b8ed9b9838">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c5c0892be1b" data-node="57c5c0892be1b">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c5c0892c5cd fl-col-group-equal-height fl-col-group-align-center" data-node="57c5c0892c5cd">
+<div class="fl-col fl-node-57c5c0892c651 fl-col-small" data-node="57c5c0892c651">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-57c5c0892c6d0" data-node="57c5c0892c6d0">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-crop-circle fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-424 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/dwayne_loy_owner_agent_barger_insurance_kentucky-circle.png" alt="Dwayne Loy Owner &amp; Agent - Barger Insurance Agency - Jamestown KY" itemprop="image" height="460" width="460" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c5c0892c74c" data-node="57c5c0892c74c">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-57c5c0892c7cc" data-node="57c5c0892c7cc">
+<div class="fl-module-content fl-node-content">
+<h3 class="fl-heading">
+<span class="fl-heading-text">Dwayne Loy, Agent & Owner</span>
+</h3>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-57c5c0892c84d" data-node="57c5c0892c84d">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p>Dwayne Loy is one of the principals of Barger Insurance Agency, Inc.  His insurance career began in 1993 after several years in the financial industry predominately financing agriculture.  As an agent at Barger Insurance, he still loves to work with agriculture.  Insuring todays complicated agriculture operations is definitely one thing he loves to do.</p>
+<p>Dwayne is only moderately involved in agency operations; he leaves the hard work to his wife of 40 years, Susan and partner Stephen Keen.  Developing new relationships with new clients is his favorite way to spend the day.  Dwayne and Susan have three children.  He has an Agriculture degree from Western Kentucky University.  Every chance he gets you will find him on his own farming operation.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c5c0dccf7bb" data-node="57c5c0dccf7bb">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c5c0dccfb7e" data-node="57c5c0dccfb7e">
+<div class="fl-col fl-node-57c5c0dccfbf5" data-node="57c5c0dccfbf5">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-57c5c0dccfc6a" data-node="57c5c0dccfc6a">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-563b8ee53f8da" data-node="563b8ee53f8da">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-563b8ee540008 fl-col-group-equal-height fl-col-group-align-center" data-node="563b8ee540008">
+<div class="fl-col fl-node-563b8ee540084 fl-col-small" data-node="563b8ee540084">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-563b8ee5400fb" data-node="563b8ee5400fb">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-crop-circle fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-405 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/vanessa_tucker_agent_barger_insurance_kentucky-circle.png" alt="vanessa_tucker_agent_barger_insurance_kentucky" itemprop="image" height="460" width="460" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-563b8ee540171" data-node="563b8ee540171">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-563b8ee5401eb" data-node="563b8ee5401eb">
+<div class="fl-module-content fl-node-content">
+<h3 class="fl-heading">
+<span class="fl-heading-text">Vanessa Tucker, Agent</span>
+</h3>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-563b8ee540263" data-node="563b8ee540263">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p>Vanessa Tucker joined the team at Barger Insurance Agency, Inc. in June 2008, after graduation from Lindsey Wilson College. She values the trust the customers give her to help protect the thing that matter most to them. A native of Barren County she and her husband Justin proudly call Adair County home. She enjoys crafting, woodworking projects, walking and anything that allows her to be outside in nature.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-563b8f9b78a0c" data-node="563b8f9b78a0c">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-563b8f9b78e8f" data-node="563b8f9b78e8f">
+<div class="fl-col fl-node-563b8f9b78f09" data-node="563b8f9b78f09">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-563b8f9b78f81" data-node="563b8f9b78f81">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c5c10b61a4e" data-node="57c5c10b61a4e">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c5c10b62011 fl-col-group-equal-height fl-col-group-align-center" data-node="57c5c10b62011">
+<div class="fl-col fl-node-57c5c10b6208a fl-col-small" data-node="57c5c10b6208a">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-57c5c10b62101" data-node="57c5c10b62101">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-crop-circle fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-423 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/april_frank_agent_barger_insurance_kentucky-circle.png" alt="April Frank, Agent - Barger Insurance Agency - Jamestown KY" itemprop="image" height="460" width="460" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c5c10b62177" data-node="57c5c10b62177">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-57c5c10b621ec" data-node="57c5c10b621ec">
+<div class="fl-module-content fl-node-content">
+<h3 class="fl-heading">
+<span class="fl-heading-text">April Frank Agent</span>
+</h3>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-57c5c10b62262" data-node="57c5c10b62262">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p>April Frank joined Jack &amp; Jack Insurance Agency in September 2009. She loves the challenge of trying to find the best insurance fit for each customer. She thinks of her insured’s as her extended family and tries to do all she can to help them no matter the situation. It was inevitable that she ended up in insurance as her mother was in the insurance industry for over 30 years.</p>
+<p>Now instead of rolling her eyes when insurance topics come up she is more than happy to jump into the conversation. She is a graduate of Russell County High School and Western Kentucky University. In her spare time she enjoys reading her Kindle, being on the lake, spending time with her family. Her most favorite activity in the world is spending time with her daughter Sophie and doing whatever she wants.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c5c0ce4fef8" data-node="57c5c0ce4fef8">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c5c0ce502c2" data-node="57c5c0ce502c2">
+<div class="fl-col fl-node-57c5c0ce5033f" data-node="57c5c0ce5033f">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-57c5c0ce503b8" data-node="57c5c0ce503b8">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c5c0d7b5c2b" data-node="57c5c0d7b5c2b">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c5c0d7b655f fl-col-group-equal-height fl-col-group-align-center" data-node="57c5c0d7b655f">
+<div class="fl-col fl-node-57c5c0d7b65ea fl-col-small" data-node="57c5c0d7b65ea">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-57c5c0d7b6674" data-node="57c5c0d7b6674">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-crop-circle fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-425 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/john_gossage_agent_barger_insurance_kentucky-circle.png" alt="John Gossage, Agent - Barger Insurance Agency - Jamestown KY" itemprop="image" height="460" width="460" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c5c0d7b66fe" data-node="57c5c0d7b66fe">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-57c5c0d7b6788" data-node="57c5c0d7b6788">
+<div class="fl-module-content fl-node-content">
+<h3 class="fl-heading">
+<span class="fl-heading-text">John Gossage, Agent</span>
+</h3>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-57c5c0d7b6811" data-node="57c5c0d7b6811">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p>John Gossage joined Barger Insurance Agency in 2012 after spending 15 years as an Agricultural lender in south central Kentucky. John spends the majority of his time working with crop insurance, farm and commercial clients. He graduated from Easter Kentucky University with a degree in Agriculture and a Minor in Business. </p>
+<p>John is a true community volunteer having served and/or currently serving on many local as well as state wide boards, such as the Kentucky Cattlemen’s Association and the University of Kentucky Cooperative Extension Council. He is a strong advocate of local 4-H and FFA Clubs. He and his wife Tracey have 5 boys and they enjoy going to their sons’ ballgames, church activities and working on the farm.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c5c10f27a01" data-node="57c5c10f27a01">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c5c10f27f2b" data-node="57c5c10f27f2b">
+<div class="fl-col fl-node-57c5c10f27fa5" data-node="57c5c10f27fa5">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-separator fl-node-57c5c10f28026" data-node="57c5c10f28026">
+<div class="fl-module-content fl-node-content">
+<div class="fl-separator"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-57c5c12e2c971" data-node="57c5c12e2c971">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c5c12e2d27e fl-col-group-equal-height fl-col-group-align-center" data-node="57c5c12e2d27e">
+<div class="fl-col fl-node-57c5c12e2d303 fl-col-small" data-node="57c5c12e2d303">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-57c5c12e2d37d" data-node="57c5c12e2d37d">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-crop-circle fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-422 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/amy_collins_agent_barger_insurance_kentucky-circle.png" alt="Amy Collins, Agent - Barger Insurance Agency - Jamestown KY" itemprop="image" height="460" width="460" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c5c12e2d3f7" data-node="57c5c12e2d3f7">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-57c5c12e2d46e" data-node="57c5c12e2d46e">
+<div class="fl-module-content fl-node-content">
+<h3 class="fl-heading">
+<span class="fl-heading-text">Amy Collins, Agent</span>
+</h3>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-57c5c12e2d4e4" data-node="57c5c12e2d4e4">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p>Amy Collins joined Jack & Jack Insurance Agency in February 2015. She is a lifelong resident of Russell County. Amy is the proud mother of Brady her son. She enjoys spending time with Brady, Brad and her family and being outdoors on the lake, camping or just enjoying life.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-none fl-node-57e17d8006219" data-node="57e17d8006219">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-57c71565e570d fl-col-group-equal-height fl-col-group-align-center" data-node="57c71565e570d">
+<div class="fl-col fl-node-57c71565e5793 fl-col-small" data-node="57c71565e5793">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-rich-text fl-node-57c71565e591f" data-node="57c71565e591f">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p style="text-align: center;"><span style="font-weight: 500; font-size: 18px;">Barger Insurance Agency</span><br />
+326 Public Square<br />
+Suite 100<br />
+Columbia, KY 42728<br />
+(270) 384-2457</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71565e589c fl-col-small fl-visible-desktop-medium" data-node="57c71565e589c">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-photo fl-node-57d3f0d2df3cf" data-node="57d3f0d2df3cf">
+<div class="fl-module-content fl-node-content">
+<div class="fl-photo fl-photo-align-center" itemscope itemtype="http://schema.org/ImageObject">
+<div class="fl-photo-content fl-photo-img-png">
+<img class="fl-photo-img wp-image-1087 size-full" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency - Columbia KY" itemprop="image" height="80" width="410" srcset="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png 410w, https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo-300x59.png 300w" sizes="(max-width: 410px) 100vw, 410px" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fl-col fl-node-57c71565e5817 fl-col-small" data-node="57c71565e5817">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-rich-text fl-node-57c71565e59a3" data-node="57c71565e59a3">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p style="text-align: center;"><span style="font-weight: 500; font-size: 18px;">Barger Insurance Agency</span><br />
+<span style="font-size: 14px; font-weight: 500;">DBA Jack &amp; Jack Insurance Agency</span><br />
+2395 N. Main St.<br />
+Jamestown, KY 42629<br />
+(270) 343-5363</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</article>
+
+</div>
+</div>
+</div>
+</div>
+<footer class="fl-page-footer-wrap" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+<div class="fl-page-footer">
+<div class="fl-page-footer-container container">
+<div class="fl-page-footer-row row">
+<div class="col-md-12 text-center clearfix"><div class="fl-page-footer-text fl-page-footer-text-1">Copyright © 2017 Barger Insurance Agency, Inc. | <a href="/privacy">Privacy</a> | <a href="/terms">Terms</a></br>Powered by AgencyIgnite</div></div> </div>
+</div>
+</div>
+</footer>
+</div>
+<script type="text/javascript">
+
+if(typeof jQuery == 'undefined' || typeof jQuery.fn.on == 'undefined') {
+	document.write('<script src="https://bargerins.com/wp-content/plugins/bb-plugin/js/jquery.js"><\/script>');
+	document.write('<script src="https://bargerins.com/wp-content/plugins/bb-plugin/js/jquery.migrate.min.js"><\/script>');
+}
+
+</script>
+<script>
+        jQuery('a.sw-tooltips').each(function(){
+            var $this = jQuery(this);
+            jQuery.Zebra_Tooltips( $this, {
+                    background_color: $this.data('background'),
+                    color: $this.data('color')
+            });
+        });
+    </script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/plugins/bb-plugin/js/jquery.waypoints.min.js?ver=1.10.9.2'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/54-layout.js?ver=8e99f70245b91a7e95161f803d74d9c3'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/themes/bb-theme/js/jquery.throttle.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/themes/bb-theme/js/bootstrap.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-includes/js/wp-embed.min.js?ver=4.8.3'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80740446-1', 'auto');
+  ga('send', 'pageview');
+
+</script></body>
+</html>

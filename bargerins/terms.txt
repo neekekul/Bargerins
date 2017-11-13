@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://bargerins.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+	<script src="https://bargerins.com/wp-content/themes/bb-theme/js/html5shiv.js"></script>
+	<script src="https://bargerins.com/wp-content/themes/bb-theme/js/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript">
+			(function(window) {
+				window.dm_redirect_to = function(){
+					if( "" ){
+						window.location.href = "";
+					}else{
+						window.location.reload();
+					}
+				};
+				var document = window.document;
+				var url = 'https://agencyignitesites.com/dm-sso-endpoint/1510524878/?dm_action=domainmap-check-login-status&domain=bargerins.com';
+				var iframe = document.createElement('iframe');
+				(iframe.frameElement || iframe).style.cssText =
+						"width: 0; height: 0; border: 0";
+				iframe.src = "javascript:false";
+				var where = document.getElementsByTagName('script')[0];
+				where.parentNode.insertBefore(iframe, where);
+				var doc = iframe.contentWindow.document;
+				doc.open().write('<body onload="'+
+						'var js = document.createElement(\'script\');'+
+						'js.src = \''+ url +'\';'+
+						'document.body.appendChild(js);">');
+				doc.close();
+
+			}(parent.window));
+		</script>
+<title>Terms | Barger Insurance Agency</title>
+
+<meta name="description" content="Website Terms and Conditions of Use for Barger Insurance Agency." />
+<link rel="canonical" href="https://bargerins.com/terms/" />
+<link rel="publisher" href="https://plus.google.com/116219017267260749567" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Terms | Barger Insurance Agency" />
+<meta property="og:description" content="Website Terms and Conditions of Use for Barger Insurance Agency." />
+<meta property="og:url" content="https://bargerins.com/terms/" />
+<meta property="og:site_name" content="Barger Insurance Agency" />
+<meta property="article:publisher" content="https://www.facebook.com/pages/Barger-Insurance-Agency/450435578335335" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/bargerins.com\/","name":"Barger Insurance Agency","alternateName":"Barger Insurance Agency","potentialAction":{"@type":"SearchAction","target":"https:\/\/bargerins.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/bargerins.com\/terms\/","sameAs":["https:\/\/www.facebook.com\/pages\/Barger-Insurance-Agency\/450435578335335","https:\/\/plus.google.com\/116219017267260749567"],"@id":"#organization","name":"Barger Insurance Agency, Inc.","logo":"https:\/\/bargerins.com\/wp-content\/uploads\/sites\/26\/2016\/09\/barger_insurance_agency_logo.png"}</script>
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Barger Insurance Agency &raquo; Feed" href="https://bargerins.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Barger Insurance Agency &raquo; Comments Feed" href="https://bargerins.com/comments/feed/" />
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bargerins.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='fl-builder-layout-344-css' href='https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/344-layout.css?ver=79ae31be52a8d97148b8cb0e8e048a8e' type='text/css' media='all' />
+<link rel='stylesheet' id='toggle-css-css' href='https://bargerins.com/wp-content/plugins/fotoplugins-bb-modules/toggle.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=1.10.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mono-social-icons-css' href='https://bargerins.com/wp-content/themes/bb-theme/css/mono-social-icons.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://bargerins.com/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fl-automator-skin-css' href='https://bargerins.com/wp-content/uploads/sites/26/bb-theme/skin-59c5664cc7f29.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://bargerins.com/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=949877209' type='text/css' media='all' />
+<script type='text/javascript' src='https://bargerins.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://bargerins.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bargerins.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bargerins.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="AgencyIgnite Sites" />
+<link rel='shortlink' href='https://bargerins.com/?p=344' />
+<link rel="alternate" type="application/json+oembed" href="https://bargerins.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbargerins.com%2Fterms%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://bargerins.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbargerins.com%2Fterms%2F&#038;format=xml" />
+<style>
+		form[class*="fl-builder-pp-"] .fl-lightbox-header h1:before {
+			content: "PowerPack ";
+			position: relative;
+			display: inline-block;
+			margin-right: 5px;
+		}
+		</style>
+<meta name="generator" content="Fotoplugins v1.4.8" /> <script type="text/javascript">
+				var _gaq = _gaq || [];
+
+				
+                					_gaq.push(['b._setAccount', 'UA-71580786-1']);
+                                        					_gaq.push(['b._trackPageview']);
+				
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                                    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+<script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','gaplusu');
+
+                                                            gaplusu('create', 'UA-38658346-6', 'auto', {'allowLinker': true});
+                    
+                                                                gaplusu('require', 'displayfeatures');
+                    
+                    gaplusu('send', 'pageview');
+                
+                            </script>
+<link rel="icon" href="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol-45x45.png" sizes="32x32" />
+<link rel="icon" href="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol.png" />
+<meta name="msapplication-TileImage" content="https://bargerins.com/wp-content/uploads/sites/26/barger_insurance_symbol.png" />
+<style type="text/css" id="wp-custom-css">
+			
+
+/*
+CSS Migrated from BB theme:
+*/
+
+.fl-post-title {
+    font-size: 26px !important;
+}
+
+.phone_cta a{
+font-weight:700 !important;
+}
+
+.fl-page-footer
+
+.fl-page-footer a, .fl-page-footer-text{
+font-size: 14px;
+color: #ffffff !important;
+}		</style>
+<link rel="stylesheet" href="https://bargerins.com/wp-content/themes/ingnite-theme/style.css" /></head>
+<body class="page-template-default page page-id-344 fl-builder fl-preset-modern fl-fixed-width" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div class="fl-page">
+<header class="fl-page-header fl-page-header-fixed fl-page-nav-right">
+<div class="fl-page-header-wrap">
+<div class="fl-page-header-container container">
+<div class="fl-page-header-row row">
+<div class="fl-page-logo-wrap col-md-3 col-sm-12">
+<div class="fl-page-header-logo">
+<a href="https://bargerins.com/"><img class="fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" data-retina="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><img class="sticky-logo fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><meta itemprop="name" content="Barger Insurance Agency" /></a>
+</div>
+</div>
+<div class="fl-page-fixed-nav-wrap col-md-9 col-sm-12">
+<div class="fl-page-nav-wrap">
+<nav class="fl-page-nav fl-nav navbar navbar-default">
+<div class="fl-page-nav-collapse collapse navbar-collapse">
+<ul id="menu-navigation" class="nav navbar-nav navbar-right menu"><li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a title="Insurance Products &#038; Services" href="https://bargerins.com/insurance-solutions/">Insurance Solutions</a></li>
+<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a title="Get a Insurance Quote" href="https://bargerins.com/quote/">Get A Quote</a></li>
+<li id="menu-item-3713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3713"><a title="Customer Service" href="https://bargerins.com/customer-service/">Service</a></li>
+<li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://bargerins.com/blog/">Blog</a></li>
+<li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-378"><a title="About Barger Insurance" href="https://bargerins.com/about/">About</a>
+<ul class="sub-menu">
+<li id="menu-item-379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-379"><a title="Meet Our Team" href="https://bargerins.com/about/#staff">Staff</a></li>
+</ul>
+</li>
+<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://bargerins.com/contact/">Contact</a></li>
+<li id="menu-item-385" class="phone_cta menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a href="tel:270-384-2457">(270) 384-2457</a></li>
+</ul> </div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<header class="fl-page-header fl-page-header-primary fl-page-nav-right fl-page-nav-toggle-icon fl-page-nav-toggle-visible-mobile" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+<div class="fl-page-header-wrap">
+<div class="fl-page-header-container container">
+<div class="fl-page-header-row row">
+<div class="col-md-4 col-sm-12 fl-page-header-logo-col">
+<div class="fl-page-header-logo" itemscope="itemscope" itemtype="http://schema.org/Organization">
+<a href="https://bargerins.com/" itemprop="url"><img class="fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" data-retina="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><img class="sticky-logo fl-logo-img" itemscope itemtype="http://schema.org/ImageObject" src="https://bargerins.com/wp-content/uploads/sites/26/2016/09/barger_insurance_agency_logo.png" alt="Barger Insurance Agency" /><meta itemprop="name" content="Barger Insurance Agency" /></a>
+</div>
+</div>
+<div class="fl-page-nav-col col-md-8 col-sm-12">
+<div class="fl-page-nav-wrap">
+<nav class="fl-page-nav fl-nav navbar navbar-default" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".fl-page-nav-collapse">
+<span><i class="fa fa-bars"></i></span>
+</button>
+<div class="fl-page-nav-collapse collapse navbar-collapse">
+<ul id="menu-navigation-1" class="nav navbar-nav navbar-right menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a title="Insurance Products &#038; Services" href="https://bargerins.com/insurance-solutions/">Insurance Solutions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a title="Get a Insurance Quote" href="https://bargerins.com/quote/">Get A Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3713"><a title="Customer Service" href="https://bargerins.com/customer-service/">Service</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://bargerins.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-378"><a title="About Barger Insurance" href="https://bargerins.com/about/">About</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-379"><a title="Meet Our Team" href="https://bargerins.com/about/#staff">Staff</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://bargerins.com/contact/">Contact</a></li>
+<li class="phone_cta menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a href="tel:270-384-2457">(270) 384-2457</a></li>
+</ul> </div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="fl-page-content" itemprop="mainContentOfPage">
+<div class="fl-content-full container">
+<div class="row">
+<div class="fl-content col-md-12">
+<article class="fl-post post-344 page type-page status-publish hentry" id="fl-post-344" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+<div class="fl-post-content clearfix" itemprop="text">
+<div class="fl-builder-content fl-builder-content-344 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="344"><div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5671df9a7bbaa" data-node="5671df9a7bbaa">
+<div class="fl-row-content-wrap">
+<div class="fl-row-content fl-row-fixed-width fl-node-content">
+<div class="fl-col-group fl-node-5671df9a7d437" data-node="5671df9a7d437">
+<div class="fl-col fl-node-5671df9a7d606" data-node="5671df9a7d606">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-57c864a5c2478" data-node="57c864a5c2478">
+<div class="fl-module-content fl-node-content">
+<h1 class="fl-heading">
+<span class="fl-heading-text">Web Site Terms and Conditions of Use</span>
+</h1>
+</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5671dfa0b4eb2" data-node="5671dfa0b4eb2">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<h2><span style="font-size: 20px;"><strong>1. Terms</strong></span></h2>
+<p>By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law.</p>
+<h2><span style="font-size: 20px;"><strong>2. Use License</strong></span></h2>
+<p>Permission is granted to temporarily download one copy of the materials (information or software) on Barger Insurance Agency, Inc. web site for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:</p>
+<p>modify or copy the materials;</p>
+<p>use the materials for any commercial purpose, or for any public display (commercial or non-commercial);</p>
+<p>attempt to decompile or reverse engineer any software contained on Barger Insurance Agency, Inc. web site;</p>
+<p>remove any copyright or other proprietary notations from the materials;</p>
+<p>or transfer the materials to another person or “mirror” the materials on any other server.</p>
+<p>This license shall automatically terminate if you violate any of these restrictions and may be terminated by Barger Insurance Agency, Inc.. at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.</p>
+<h2><span style="font-size: 20px;"><strong>3. Disclaimer</strong></span></h2>
+<p>The materials on Barger Insurance Agency, Inc.'s web site are provided “as is. Barger Insurance Agency, Inc. makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Barger Insurance Agency, Inc. does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.</p>
+<h2><span style="font-size: 20px;"><strong>4. Limitations</strong></span></h2>
+<p>In no event shall Barger Insurance Agency, Inc.'s or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Barger Insurance Agency, Inc.'s Internet site, even if Barger Insurance Agency, Inc.'s or a Barger Insurance Agency, Inc.'s authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</p>
+<h2><span style="font-size: 20px;"><strong>5. Revisions and Errata</strong></span></h2>
+<p>The materials appearing on Barger Insurance Agency, Inc.'s web site could include technical, typographical, or photographic errors. Barger Insurance Agency, Inc. does not warrant that any of the materials on its web site are accurate, complete, or current may make changes to the materials contained on its web site at any time without notice. Barger Insurance Agency, Inc. does not, however, make any commitment to update the materials.</p>
+<h2><span style="font-size: 20px;"><strong>6. Links</strong></span></h2>
+<p>Barger Insurance Agency, Inc. has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Barger Insurance Agency, Inc. of the site. Use of any such linked web site is at the user’s own risk.</p>
+<h2><span style="font-size: 20px;"><strong>7. Site Terms of Use Modifications</strong></span></h2>
+<p>Barger Insurance Agency, Inc. may revise these terms of use for its web site at any time without notice. By using this web site you are agreeing to be bound by the then current version of these Terms and Conditions of Use.</p>
+<h2><span style="font-size: 20px;"><strong>8. Governing Law</strong></span></h2>
+<p>Any claim relating to Barger Insurance Agency, Inc.'s web site shall be governed by the laws of Kentucky without regard to its conflict of law provisions.</p>
+<p>General Terms and Conditions are applicable to Use of a Web Site.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</article>
+
+</div>
+</div>
+</div>
+</div>
+<footer class="fl-page-footer-wrap" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+<div class="fl-page-footer">
+<div class="fl-page-footer-container container">
+<div class="fl-page-footer-row row">
+<div class="col-md-12 text-center clearfix"><div class="fl-page-footer-text fl-page-footer-text-1">Copyright © 2017 Barger Insurance Agency, Inc. | <a href="/privacy">Privacy</a> | <a href="/terms">Terms</a></br>Powered by AgencyIgnite</div></div> </div>
+</div>
+</div>
+</footer>
+</div>
+<script type="text/javascript">
+
+if(typeof jQuery == 'undefined' || typeof jQuery.fn.on == 'undefined') {
+	document.write('<script src="https://bargerins.com/wp-content/plugins/bb-plugin/js/jquery.js"><\/script>');
+	document.write('<script src="https://bargerins.com/wp-content/plugins/bb-plugin/js/jquery.migrate.min.js"><\/script>');
+}
+
+</script>
+<script>
+        jQuery('a.sw-tooltips').each(function(){
+            var $this = jQuery(this);
+            jQuery.Zebra_Tooltips( $this, {
+                    background_color: $this.data('background'),
+                    color: $this.data('color')
+            });
+        });
+    </script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/uploads/sites/26/bb-plugin/cache/344-layout.js?ver=79ae31be52a8d97148b8cb0e8e048a8e'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/themes/bb-theme/js/jquery.throttle.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/themes/bb-theme/js/bootstrap.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.6.3'></script>
+<script type='text/javascript' src='https://bargerins.com/wp-includes/js/wp-embed.min.js?ver=4.8.3'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80740446-1', 'auto');
+  ga('send', 'pageview');
+
+</script></body>
+</html>
