@@ -1,0 +1,63 @@
+body{
+	background-color: #FFFFFF;
+}
+
+div{
+	width: 100%;
+	border: none;
+}
+
+header{
+	padding: 13px;
+	clear: left;
+	background-color: #FFFFFF;
+}
+
+figure{
+	display: block;
+	float: right;
+	margin-top: -5px;
+	width: 360px;
+	height: 60px;
+}
+
+#Logo{
+	margin-left: 2%;
+	margin-top: 20px;
+
+
+}
+
+#Keystone{
+
+}
+
+
+nav{
+	width: 100%;
+	background-color: #34495E;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a{
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 30px 106px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+li a:hover{
+	background-color: #A93226;
+}
