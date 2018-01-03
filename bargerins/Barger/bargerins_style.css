@@ -56,7 +56,7 @@ li a{
     padding: 30px 55px;
     text-decoration: none;
     font-family: sans-serif;
-    font-size: 2vw;
+    font-size: 1.8vw;
 }
 
 li a:hover{
@@ -76,7 +76,7 @@ li a:hover{
 	clear: left;
 	background-color: #467f63;
 	max-width: 50%;
-	height: 513px;
+	height: 37.5vw;
 	margin-left: 50%;
 	margin-top: -15px;
 	color: white;
