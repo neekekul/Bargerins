@@ -14,10 +14,10 @@
 	<![endif]-->
 </head>
 <body>
-<div>
+<div id="main">
 <header>
 <a href="bargerins.php" target="_self" title="HOME">
-<img id="Logo" src="barger_insurance_agency_logo.png" alt="Barger Insurance Company Logo" width="450" height="80"/>
+<img id="Logo" src="barger_insurance_agency_logo.png" alt="Barger Insurance Company Logo" width="375" height="80"/>
 </a>
 <figure>
 <a href="http://www.keystoneinsgrp.com/" target="_blank" title="keystoneinsgrp">
@@ -37,14 +37,25 @@
 </ul>
 </nav>
 </div>
-<div class="w3-content w3-display-container" style="max-width: 100%; margin-top: -10px">
+<div id="quote">
+  <h1>Start your savings today!</h1>
+  <p>contact us for a quote</p>
+  <button id="bestbutton">GET A QUOTE</button>
+</div>
+<div class="w3-content w3-display-container" style="max-width:50%; margin-top: -513px; margin-left: 0">
   <img class="mySlides" src="IMG_2587.JPG" style="width:100%">
   <img class="mySlides" src="IMG_2611.JPG" style="width:100%">
   <img class="mySlides" src="IMG_4248.JPG" style="width:100%">
-
-  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">Farms</div>
+  <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
+  	<div class="w3-left" onclick="plusDivs(-1)">&#10094;</div>
+  	<div class="w3-right" onclick="plusDivs(1)">&#10095;</div>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+  </div>
 </div>
+
 <script>
 var slideIndex = 1;
 showDivs(slideIndex);
@@ -53,15 +64,24 @@ function plusDivs(n) {
   showDivs(slideIndex += n);
 }
 
+function currentDiv(n) {
+  showDivs(slideIndex = n);
+}
+
 function showDivs(n) {
   var i;
   var x = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
   if (n > x.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = x.length}
   for (i = 0; i < x.length; i++) {
      x[i].style.display = "none";  
   }
+  for (i = 0; i < dots.length; i++) {
+     dots[i].className = dots[i].className.replace(" w3-white", "");
+  }
   x[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " w3-white";
 }
 </script>
 </body>
