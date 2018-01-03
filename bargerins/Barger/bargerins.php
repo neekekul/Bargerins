@@ -42,7 +42,7 @@
   <p>contact us for a quote</p>
   <button id="bestbutton">GET A QUOTE</button>
 </div>
-<div class="w3-content w3-display-container" style="max-width:50%; margin-top: -513px; margin-left: 0; min-height: 513px">
+<div class="w3-content w3-display-container" style="max-width:50%; margin-top: -37.5vw; margin-left: 0">
   <img class="mySlides" src="IMG_2587.JPG" style="width:100%">
   <img class="mySlides" src="IMG_2611.JPG" style="width:100%">
   <img class="mySlides" src="IMG_4248.JPG" style="width:100%">
