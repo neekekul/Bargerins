@@ -16,19 +16,33 @@ header{
 figure{
 	display: block;
 	float: right;
-	margin-top: -5px;
-	width: 360px;
-	height: 60px;
+	margin-top: -10vw;
+	width: 23vw;
+	height: 5vw;
+}
+
+figure p{
+	color: #262626;
+	font-size: 1.2vw;
+	text-align: center;
+	margin-top: -2vw;
+	margin-left: -1vw;
 }
 
 #Logo{
 	margin-left: 2%;
 	margin-top: 20px;
+	width: 20vw;
+	height: 5vw;
 
 
 }
 
 #Keystone{
+	height: 7vw;
+	width: 22vw;
+	margin-top: -.5vw;
+
 
 }
 
@@ -47,6 +61,7 @@ ul {
 
 li {
     float: right;
+    border-left: solid 1px #22303d;
 }
 
 li a{
@@ -92,7 +107,8 @@ li a:hover{
 
 #quote p{
 	font-size: 2vw;
-	margin-top: 100px;
+	margin-top: 7vw;
+	text-align: center;
 }
 .w3-badge{
 	height: 18px;
@@ -101,20 +117,25 @@ li a:hover{
 }
 
 #bestbutton{
-	margin-top: 50px;
-	background-color: #FFFFFF;
-	border-radius: 4px;
-	width: 50%;
+	margin-top: 2.5vw;
+	background-color: white;
+	border-radius: 6px;
+	width: 55%;
 	height: 50px;
 	font-size: 1.5vw;
 	cursor: pointer;
 	border: none;
 	text-decoration: none;
 	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+	text-align: center;
 
 }
 
 #bestbutton:active{
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 3px 10px 0 rgba(0, 0, 0, 0.4);
-	transform: translateY(4px);
+	transform: translateY(3px);
+}
+
+#Farms{
+	font-size: 2vw;
 }

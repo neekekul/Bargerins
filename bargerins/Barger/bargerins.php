@@ -17,11 +17,12 @@
 <div id="main">
 <header>
 <a href="bargerins.php" target="_self" title="HOME">
-<img id="Logo" src="barger_insurance_agency_logo.png" alt="Barger Insurance Company Logo" width="375" height="80"/>
+<img id="Logo" src="barger_insurance_agency_logo.png" alt="Barger Insurance Company Logo"/>
 </a>
 <figure>
+<p><strong>Proud member of</strong></p>
 <a href="http://www.keystoneinsgrp.com/" target="_blank" title="keystoneinsgrp">
-<img id="Keystone" src="Black Logo Layout for Partners-01.jpg" alt="Keystone Logo" width="320" height="90"/>
+<img id="Keystone" src="Black Logo Layout for Partners-01.jpg" alt="Keystone Logo"/>
 </a>
 </figure>
 </header>
@@ -29,7 +30,7 @@
 <nav>
 <ul>
 	<li><a>Insurance Solutions</a></li>
-	<li><a>Get A Quote</a></li>
+  <li><a>Our Staff</a></li>
 	<li><a>Service</a></li>
 	<li><a>Blog</a></li>
 	<li><a>About</a></li>
@@ -40,13 +41,13 @@
 <div id="quote">
   <h1>Start your savings today!</h1>
   <p>contact us for a quote</p>
-  <button id="bestbutton">GET A QUOTE</button>
+  <button id="bestbutton"><strong>GET A QUOTE</strong></button>
 </div>
 <div class="w3-content w3-display-container" style="max-width:50%; margin-top: -37.5vw; margin-left: 0">
   <img class="mySlides" src="IMG_2587.JPG" style="width:100%">
   <img class="mySlides" src="IMG_2611.JPG" style="width:100%">
   <img class="mySlides" src="IMG_4248.JPG" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">Farms</div>
+  <div id="Farms" class="w3-display-topleft w3-container w3-padding-16 w3-black">Farms</div>
   <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
   	<div class="w3-left" onclick="plusDivs(-1)">&#10094;</div>
   	<div class="w3-right" onclick="plusDivs(1)">&#10095;</div>
