@@ -19,6 +19,9 @@
 <a href="bargerins.php" target="_self" title="HOME">
 <img id="Logo" src="barger_insurance_agency_logo.png" alt="Barger Insurance Company Logo"/>
 </a>
+<section>
+<a href="tel:+12703842457" id="phone">270-384-2457</a>
+</section>
 <figure>
 <p><strong>Proud member of</strong></p>
 <a href="http://www.keystoneinsgrp.com/" target="_blank" title="keystoneinsgrp">
@@ -39,22 +42,51 @@
 </nav>
 </div>
 <div id="quote">
-  <h1>Start your savings today!</h1>
-  <p>contact us for a quote</p>
-  <button id="bestbutton"><strong>GET A QUOTE</strong></button>
+  <h1 id="savings">Start your savings today</h1>
+  <p>Get your quote online</p>
+  <form action="/Barger/getaquote.php" method="GET">
+    <button id="bestbutton">GET A QUOTE</button>
+  </form>
+  <p id="call">or call us at:</p>
+  <a href="tel:+12703842457">270-384-2457</a>
 </div>
 <div class="w3-content w3-display-container" style="max-width:50%; margin-top: -37.5vw; margin-left: 0">
+  <img class="mySlides" src="IMG_courthouse.png" style="width:100%">
   <img class="mySlides" src="IMG_2587.JPG" style="width:100%">
   <img class="mySlides" src="IMG_2611.JPG" style="width:100%">
   <img class="mySlides" src="IMG_4248.JPG" style="width:100%">
-  <div id="Farms" class="w3-display-topleft w3-container w3-padding-16 w3-black">Farms</div>
+  <img class="mySlides" src="IMG_church.png" style="width:100%">
+  
+  <!--<div id="Farms" class="w3-display-topleft w3-container w3-padding-16 w3-black"></div>-->
   <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
-  	<div class="w3-left" onclick="plusDivs(-1)">&#10094;</div>
-  	<div class="w3-right" onclick="plusDivs(1)">&#10095;</div>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
-    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+  	<div class="w3-left" onclick="plusDivs(-1)" style="cursor: pointer;">&#10094;</div>
+  	<div class="w3-right" onclick="plusDivs(1)" style="cursor: pointer;">&#10095;</div>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)" style="cursor: pointer;"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)" style="cursor: pointer;"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)" style="cursor: pointer;"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)" style="cursor: pointer;"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)" style="cursor: pointer;"></span>
   </div>
+</div>
+
+<div id="address">
+  <address id="one"><span>Barger Insurance Agency<br/>
+                          326 Public Square<br/>
+                          Suite 100<br/>
+                          Columbia, KY 42728<br/>
+                          <a href="tel:+12793842457">270-384-2457</a></span></address>
+  <address id="two"><span>Barger Insurance Agency<br/>
+                          DBA Jack & Jack Insurance Agency<br/>
+                          2395 N. Main St.<br/>
+                          Jamestown, KY 42629<br/>
+                          <a href="tel:+12703435363">270-343-5363</a></span></address>
+</div>
+<hr></hr>
+
+<div id="copyright">
+  <p>Copyright © 2018 Barger Insurance Agency, Inc. | <a>Privacy</a> | <a>Terms</a><br/>
+    Special Thanks to <a href="https://www.w3schools.com/">w3schools.com</a></p>
+
 </div>
 
 <script>
