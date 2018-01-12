@@ -16,7 +16,7 @@
 <body>
 <div id="main">
 <header>
-<a href="bargerins.php" target="_self" title="HOME">
+<a href="/bargerins.php" target="_self" title="HOME">
 <img id="Logo" src="barger_insurance_agency_logo.png" alt="Barger Insurance Company Logo"/>
 </a>
 <section>
@@ -34,7 +34,7 @@
 <ul>
 	<li><a>Insurance Solutions</a></li>
   <li><a>Our Staff</a></li>
-	<li><a>Service</a></li>
+	<li><a href="/getaquote.php">Service</a></li>
 	<li><a>Blog</a></li>
 	<li><a>About</a></li>
 	<li><a>Contact</a></li>
@@ -43,7 +43,38 @@
 </div>
 
 <div id="quote">
-	<h1>Let's start your quote</h1>
+	<h1>All we need is a little information from you. Fill out the form below then click submit.</h1>
+	<form action="/getaquote_finish.php" method="POST">
+		Type of Coverage:
+		<input id="coverage" type="text" name="coverage" placeholder="Auto..." list="types" autocomplete="Off" required/>
+		<datalist id="types">
+			<option>Farm</option>
+			<option>Auto</option>
+			<option>Home</option>
+			<option>Boat</option>
+			<option>Mobile Home</option>
+			<option>Classic Car</option>
+			<option>Motorcycle</option>
+			<option>Renters</option>
+			<option>Condo</option>
+			<option>Recreational Vehicle</option>
+			<option>Off Road Vehicle</option>
+			<option>Umbrella</option>
+			<option>Flood</option>
+			<option>Life</option>
+			<option>Business</option>
+		</datalist></br></br>
+		Email Address:
+		<input id="mail" type="email" name="mail" placeholder="soandso@gmail.com..." autocomplete="Off" required/></br></br>
+		Phone Number:
+		<input id="num" type="tel" name="phone" placeholder="(___) ___-____" autocomplete="Off" /></br></br>
+		First Name:
+		<input id="first" type="text" name="first" placeholder="John..." autocomplete="Off" required/></br></br>
+		Last Name:
+		<input id="last" type="text" name="last" placeholder="Doe..." autocomplete="Off" required/></br></br>
+		<input id="submit" type="submit" value="Submit">
+
+	</form>
 </div>
 
 <div id="address">
@@ -61,8 +92,7 @@
 <hr></hr>
 
 <div id="copyright">
-  <p>Copyright © 2018 Barger Insurance Agency, Inc. | <a>Privacy</a> | <a>Terms</a><br/>
-    Special Thanks to <a href="https://www.w3schools.com/">w3schools.com</a></p>
+  <p>Copyright © 2018 Barger Insurance Agency, Inc. | <a href="/privacy.php">Privacy</a> | <a href="/terms.php">Terms</a></p>
 
 </div>
 </body>

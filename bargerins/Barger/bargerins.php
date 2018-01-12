@@ -9,6 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="bargerins_style.css"/>
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
 	<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 	<![endif]-->
@@ -16,7 +17,7 @@
 <body>
 <div id="main">
 <header>
-<a href="bargerins.php" target="_self" title="HOME">
+<a href="/bargerins.php" target="_self" title="HOME">
 <img id="Logo" src="barger_insurance_agency_logo.png" alt="Barger Insurance Company Logo"/>
 </a>
 <section>
@@ -34,7 +35,7 @@
 <ul>
 	<li><a>Insurance Solutions</a></li>
   <li><a>Our Staff</a></li>
-	<li><a>Service</a></li>
+	<li><a href="/getaquote.php">Service</a></li>
 	<li><a>Blog</a></li>
 	<li><a>About</a></li>
 	<li><a>Contact</a></li>
@@ -44,7 +45,7 @@
 <div id="quote">
   <h1 id="savings">Start your savings today</h1>
   <p>Get your quote online</p>
-  <form action="/Barger/getaquote.php" method="GET">
+  <form action="/getaquote.php" method="GET">
     <button id="bestbutton">GET A QUOTE</button>
   </form>
   <p id="call">or call us at:</p>
@@ -54,6 +55,7 @@
   <img class="mySlides" src="IMG_courthouse.png" style="width:100%">
   <img class="mySlides" src="IMG_2587.JPG" style="width:100%">
   <img class="mySlides" src="IMG_2611.JPG" style="width:100%">
+  <img class="mySlides" src="IMG_nanwood.png" style="width:100%">
   <img class="mySlides" src="IMG_4248.JPG" style="width:100%">
   <img class="mySlides" src="IMG_church.png" style="width:100%">
   
@@ -66,6 +68,7 @@
     <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)" style="cursor: pointer;"></span>
     <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)" style="cursor: pointer;"></span>
     <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(5)" style="cursor: pointer;"></span>
+    <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(6)" style="cursor: pointer;"></span>
   </div>
 </div>
 
@@ -84,8 +87,7 @@
 <hr></hr>
 
 <div id="copyright">
-  <p>Copyright © 2018 Barger Insurance Agency, Inc. | <a>Privacy</a> | <a>Terms</a><br/>
-    Special Thanks to <a href="https://www.w3schools.com/">w3schools.com</a></p>
+  <p>Copyright © 2018 Barger Insurance Agency, Inc. | <a href="/privacy.php">Privacy</a> | <a href="/terms.php">Terms</a></p>
 
 </div>
 
