@@ -14,7 +14,7 @@
         <meta name="description" content="Barger Insurance Website">
         <meta name="author" content="Luke Keen">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="http://www.bargerins.com/getaquote_style.css" />
+        <link rel="stylesheet" href="getaquote_style.css" />
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
         <!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -24,7 +24,7 @@
     <body>
         <div id="main">
             <header>
-                <a href="http://www.bargerins.com/bargerins.php" target="_self" title="HOME">
+                <a href="bargerins.php" target="_self" title="HOME">
 <img id="Logo" src="barger_insurance_agency_logo.png" alt="Barger Insurance Company Logo"/>
 </a>
                 <section>
@@ -42,7 +42,7 @@
                 <ul>
                     <li><a>Insurance Solutions</a></li>
                     <li><a>Our Staff</a></li>
-                    <li><a href="http://www.bargerins.com/getaquote.php">Service</a></li>
+                    <li><a href="getaquote.php">Service</a></li>
                     <li><a>Blog</a></li>
                     <li><a>About</a></li>
                     <li><a>Contact</a></li>
@@ -63,7 +63,7 @@
 
 		mail($to, $subject, $message, $headers);
 	?>-->
-            <form action="/bargerins.php" method="GET">
+            <form action="bargerins.php" method="GET">
                 <input id="submit" type="submit" value="Home">
             </form>
 
@@ -84,7 +84,7 @@
         <hr></hr>
 
         <div id="copyright">
-            <p>Copyright © 2018 Barger Insurance Agency, Inc. | <a href="http://www.bargerins.com/privacy.php">Privacy</a> | <a href="http://www.bargerins.com/terms.php">Terms</a></p>
+            <p>Copyright © 2018 Barger Insurance Agency, Inc. | <a href="privacy.php">Privacy</a> | <a href="terms.php">Terms</a></p>
 
         </div>
     </body>

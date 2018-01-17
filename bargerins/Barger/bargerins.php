@@ -8,7 +8,7 @@
     <meta name="author" content="Luke Keen">
     <meta http-equiv="refresh" content="180">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="http://www.bargerins.com/bargerins_style.css">
+    <link rel="stylesheet" href="bargerins_style.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -18,7 +18,7 @@
 <body>
     <div id="main">
         <header>
-            <a href="http://www.bargerins.com/bargerins.php" target="_self" title="HOME">
+            <a href="bargerins.php" target="_self" title="HOME">
 <img id="Logo" src="barger_insurance_agency_logo.png" alt="Barger Insurance Company Logo"/>
 </a>
             <section>
@@ -36,7 +36,7 @@
             <ul>
                 <li><a>Insurance Solutions</a></li>
                 <li><a>Our Staff</a></li>
-                <li><a href="http://www.bargerins.com/getaquote.php">Service</a></li>
+                <li><a href="getaquote.php">Service</a></li>
                 <li><a>Blog</a></li>
                 <li><a>About</a></li>
                 <li><a>Contact</a></li>
@@ -46,13 +46,13 @@
     <div id="quote">
         <h1 id="savings">Start your savings today</h1>
         <p>Get your quote online</p>
-        <form action="/getaquote.php" method="GET">
+        <form action="getaquote.php" method="GET">
             <button id="bestbutton">GET A QUOTE</button>
         </form>
         <p id="call">or call us at:</p>
         <a href="tel:+12703842457">270-384-2457</a>
     </div>
-    <div class="w3-content w3-display-container" style="max-width:50%; margin-top: -37.5vw; margin-left: 0">
+    <div id="photocontainer" class="w3-content w3-display-container">
         <img class="mySlides" src="http://www.bargerins.com/IMG_courthouse.jpg" alt="Courthouse" style="width:100%">
         <img class="mySlides" src="http://www.bargerins.com/IMG_2587.JPG" alt="farm" style="width:100%">
         <img class="mySlides" src="http://www.bargerins.com/IMG_2611.JPG" alt="farm" style="width:100%">
@@ -87,7 +87,7 @@
     </div>
 
     <div id="copyright">
-        <p>Copyright © 2018 Barger Insurance Agency, Inc. | <a href="http://www.bargerins.com/privacy.php">Privacy</a> | <a href="http://www.bargerins.com/terms.php">Terms</a></p>
+        <p>Copyright © 2018 Barger Insurance Agency, Inc. | <a href="privacy.php">Privacy</a> | <a href="terms.php">Terms</a></p>
 
     </div>
 
